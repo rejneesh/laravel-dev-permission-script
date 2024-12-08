@@ -1,6 +1,6 @@
 # Laravel Project Permission Setup Script – Automate File Permissions for Secure Deployment in Linux
 
-This script automates the process of setting up proper file and folder permissions for a Laravel project, ensuring secure access control for web server and user access. It checks if Laravel is installed in the directory, removes unsafe permissions, and restores appropriate access for project folders, storage, and bootstrap/cache directories. Ideal for Laravel developers deploying applications on web servers like Apache or Nginx, this script ensures a smooth and secure deployment process.
+This script automates the process of setting up proper file and folder permissions for a Laravel project, ensuring secure access control for web server and user access. It checks if Laravel is installed in the directory, removes unsafe permissions, and restores appropriate access for project folders, storage, and bootstrap/cache directories. Ideal for Laravel developers working on web servers like Apache or Nginx, this script ensures a smooth and secure deployment process.
 
 ## Key Features:
 <ul>
