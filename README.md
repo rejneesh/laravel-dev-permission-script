@@ -15,5 +15,5 @@ This script is perfect for Laravel developers who need to ensure proper file per
 
 ## Installation:
 1. Copy setup-permissions.sh to your Laravel root directory after you have installed Laravel.
-2. Make the script executable with: sudo chmod +x setup-permissions.sh 
-3. Run the script: sudo ./setup-permissions.sh
+2. Make the script executable with: sudo chmod +x set-permission.sh
+3. Run the script: sudo ./set-permission.sh
