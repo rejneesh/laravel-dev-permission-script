@@ -1,8 +1,8 @@
 #!/bin/bash
 # Make the script executable
-# sudo chmod +x set-permission.sh
+# sudo chmod +x set-permission-dev.sh
 # Run the script:
-# sudo ./set-permission.sh
+# sudo ./set-permission-dev.sh
 
 # Check if Laravel is installed by looking for the 'artisan' file
 if [ ! -f "$(pwd)/artisan" ]; then
