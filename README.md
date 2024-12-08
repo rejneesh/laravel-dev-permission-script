@@ -14,6 +14,6 @@ This script automates the process of setting up proper file and folder permissio
 This script is perfect for Laravel developers who need to ensure proper file permissions and ownership on their projects, especially when deploying on shared hosting or production servers. It’s designed to be used in automated deployment setups or as a quick solution for local development environments.
 
 ## Installation:
-1. Copy the file to your Laravel root directory after you have installed Laravel.
+1. Copy setup-permissions.sh to your Laravel root directory after you have installed Laravel.
 2. Make the script executable with: sudo chmod +x setup-permissions.sh 
 3. Run the script: sudo ./setup-permissions.sh
