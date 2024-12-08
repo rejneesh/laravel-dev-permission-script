@@ -26,7 +26,7 @@ sudo chmod 770 $(pwd)
 
 # Step 4/5: Change ownership to your user and the www-data group for the entire project folder
 echo "Step 4/5: Changing ownership of the project folder..."
-sudo chown -R $(whoami):www-data $(pwd)
+sudo chown -R $(logname):www-data $(pwd)
 
 # Step 5/5: Change ownership of storage and bootstrap/cache to www-data:www-data
 echo "Step 5/5: Changing ownership of storage and bootstrap/cache..."
