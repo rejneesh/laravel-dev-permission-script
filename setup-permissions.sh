@@ -1,8 +1,8 @@
 #!/bin/bash
-#Make the script executable
-#chmod +x setup-permissions.sh
-#Run the script:
-#./setup-permissions.sh
+# Make the script executable
+# chmod +x setup-permissions.sh
+# Run the script:
+# ./setup-permissions.sh
 
 # Check if Laravel is installed by looking for the 'artisan' file
 if [ ! -f "$(pwd)/artisan" ]; then
